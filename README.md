@@ -1,12 +1,12 @@
-# StudyHub - Educational Materials Platform
+# PS Hack - Computer Science Educational Platform
 
-StudyHub is a web application designed for students to share and access educational materials. Users can browse materials organized by subjects, view details, and upload their own study materials.
+PS Hack is a web application designed for computer science students to share and access educational materials. Users can browse materials organized by CS subjects, view details, and upload their own study materials.
 
 ## Features
 
-- Browse educational materials by subject
+- Browse computer science materials by subject (Programming, Computer Networks, Database Systems, OOP)
 - View detailed information about each material
-- Upload and share your own study materials
+- Upload and share your own CS study materials
 - Responsive design works on all devices
 - Modern UI using Tailwind CSS
 
